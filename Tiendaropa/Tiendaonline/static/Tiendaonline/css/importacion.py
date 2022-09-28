@@ -1,0 +1,2 @@
+def printear():
+	print("hola")
